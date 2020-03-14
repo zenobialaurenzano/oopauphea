@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://meaguemiey.smartrobot.work/sitemap.xml
